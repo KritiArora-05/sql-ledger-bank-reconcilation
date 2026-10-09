@@ -1,5 +1,4 @@
-# sql-ledger-bank-reconcilation
-Ledger vs Bank statement reconcilation with SQL
+
 # Ledger vs Bank Reconciliation in SQL
 
 A small SQL project where I match a company's ledger against its bank statement and find the differences.
